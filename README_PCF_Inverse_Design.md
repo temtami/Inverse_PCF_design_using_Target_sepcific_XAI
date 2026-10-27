@@ -236,29 +236,4 @@ Only include folders and files that exist in your repository. If the
 COMSOL `.mph` files or dataset cannot be shared, explain that in the
 repository rather than implying they are included.
 
-## Reproducibility
 
-The paper describes the simulation setup, feature representation, model
-configuration, and evaluation protocol. To make this repository
-runnable, add the actual code and dependency list, document the dataset
-source/access procedure, and provide the commands used to reproduce
-training and evaluation.
-
-No installation or execution commands are provided here because the
-uploaded paper does not specify a verified public code layout or
-runnable entry point.
-
-## Citation
-
-If you use or discuss this work, cite the paper using the bibliographic
-information below. Update the entry if a final publication, DOI, or
-public preprint becomes available.
-
-> Fahmida Alam Tamim and Mushfiqur Rahman Masuk, "Identifiability-Aware
-> Inverse Design of Chalcogenide Photonic Crystal Fibers Using
-> Target-Specific Explainable Learning," manuscript.
-
-## Contact
-
-For questions about the work, contact the authors through the contact
-details provided in the paper or the repository profile.

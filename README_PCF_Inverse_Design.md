@@ -1,11 +1,3 @@
-<img width="703" height="412" alt="Picture8" src="https://github.com/user-attachments/assets/7d528b00-548a-46ce-977a-3acc4fa97192" />
-<img width="722" height="412" alt="Picture7" src="https://github.com/user-attachments/assets/4bfb66d5-016e-4f72-a033-fcf354cd5058" />
-<img width="685" height="353" alt="Picture6" src="https://github.com/user-attachments/assets/31a04a1e-557c-471a-a2e2-f76a839bce7d" />
-<img width="680" height="417" alt="Picture5" src="https://github.com/user-attachments/assets/54b50c8c-0fae-45e5-a74c-6cbe3154b232" />
-<img width="680" height="400" alt="Picture4" src="https://github.com/user-attachments/assets/1d568e93-c480-4141-a9af-98b0e45ac59c" />
-<img width="293" height="95" alt="Picture3" src="https://github.com/user-attachments/assets/0cd69ef0-3b36-470d-b1f5-614755b2ee60" />
-<img width="298" height="164" alt="Picture2" src="https://github.com/user-attachments/assets/6dab18ee-2618-4738-a097-0d5f7f95865a" />
-
 # Identifiability-Aware Inverse Design of Chalcogenide Photonic Crystal Fibers
 
 **Target-specific explainable learning for inverse design of photonic
@@ -138,6 +130,17 @@ maximum of 300 epochs, and early stopping. Training structures are
 augmented with Gaussian-noise copies; validation structures are not
 augmented.
 
+
+<img width="703" height="412" alt="Picture8" src="https://github.com/user-attachments/assets/7d528b00-548a-46ce-977a-3acc4fa97192" />
+<img width="722" height="412" alt="Picture7" src="https://github.com/user-attachments/assets/4bfb66d5-016e-4f72-a033-fcf354cd5058" />
+<img width="685" height="353" alt="Picture6" src="https://github.com/user-attachments/assets/31a04a1e-557c-471a-a2e2-f76a839bce7d" />
+<img width="680" height="417" alt="Picture5" src="https://github.com/user-attachments/assets/54b50c8c-0fae-45e5-a74c-6cbe3154b232" />
+<img width="680" height="400" alt="Picture4" src="https://github.com/user-attachments/assets/1d568e93-c480-4141-a9af-98b0e45ac59c" />
+<img width="293" height="95" alt="Picture3" src="https://github.com/user-attachments/assets/0cd69ef0-3b36-470d-b1f5-614755b2ee60" />
+<img width="298" height="164" alt="Picture2" src="https://github.com/user-attachments/assets/6dab18ee-2618-4738-a097-0d5f7f95865a" />
+
+
+
 ## Key results
 
 The proposed configuration achieved a mean accuracy of **0.769** across
@@ -224,24 +227,4 @@ explore anomaly positions closer to the core, and include response
 channels that are more sensitive to the outer cladding. Experimental
 fabrication and measurement are needed before a predicted geometry can
 be considered validated in practice.
-
-## Repository contents
-
-This README is based on the research paper. Add or update the following
-entries to match the files actually committed to this repository:
-
-``` text
-.
-├── README.md
-├── data/                 # Optional: dataset, if publicly shared
-├── notebooks/            # Optional: analysis and training notebooks
-├── src/                  # Optional: model and preprocessing code
-├── figures/              # Optional: plots and diagrams
-└── requirements.txt      # Optional: Python dependencies
-```
-
-Only include folders and files that exist in your repository. If the
-COMSOL `.mph` files or dataset cannot be shared, explain that in the
-repository rather than implying they are included.
-
 
